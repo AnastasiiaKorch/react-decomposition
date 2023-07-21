@@ -1,0 +1,11 @@
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+.footer__item {
+    display: inline-block;
+}
+.footer__list {
+    column-count: 3;
+}
